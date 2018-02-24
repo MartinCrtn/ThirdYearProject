@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/martincourtinat/ThirdYearProject/node_modules/react-native-navigation/ios/RCCViewController.m \
+  /Users/martincourtinat/ThirdYearProject/node_modules/react-native-navigation/ios/RCCViewController.h \
+  /Users/martincourtinat/ThirdYearProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/martincourtinat/ThirdYearProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/martincourtinat/ThirdYearProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/martincourtinat/ThirdYearProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/martincourtinat/ThirdYearProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/martincourtinat/ThirdYearProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/martincourtinat/ThirdYearProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/martincourtinat/ThirdYearProject/node_modules/react-native-navigation/ios/RCCNavigationController.h \
+  /Users/martincourtinat/ThirdYearProject/node_modules/react-native-navigation/ios/RCCTabBarController.h \
+  /Users/martincourtinat/ThirdYearProject/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerController.h \
+  /Users/martincourtinat/ThirdYearProject/node_modules/react-native-navigation/ios/RCCDrawerController/MMDrawerController/MMDrawerController.h \
+  /Users/martincourtinat/ThirdYearProject/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerProtocol.h \
+  /Users/martincourtinat/ThirdYearProject/node_modules/react-native-navigation/ios/RCCDrawerController/RCCTheSideBarManagerViewController.h \
+  /Users/martincourtinat/ThirdYearProject/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/TheSidebarController.h \
+  /Users/martincourtinat/ThirdYearProject/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/Animations/SidebarAnimation.h \
+  /Users/martincourtinat/ThirdYearProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/martincourtinat/ThirdYearProject/node_modules/react-native-navigation/ios/RCCManager.h \
+  /Users/martincourtinat/ThirdYearProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/martincourtinat/ThirdYearProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/martincourtinat/ThirdYearProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/martincourtinat/ThirdYearProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/martincourtinat/ThirdYearProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/martincourtinat/ThirdYearProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/martincourtinat/ThirdYearProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/martincourtinat/ThirdYearProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/martincourtinat/ThirdYearProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/martincourtinat/ThirdYearProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/martincourtinat/ThirdYearProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/martincourtinat/ThirdYearProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/martincourtinat/ThirdYearProject/node_modules/react-native-navigation/ios/RCCExternalViewControllerProtocol.h \
+  /Users/martincourtinat/ThirdYearProject/node_modules/react-native-navigation/ios/Helpers/RCTHelpers.h \
+  /Users/martincourtinat/ThirdYearProject/node_modules/react-native-navigation/ios/Helpers/RCCTitleViewHelper.h \
+  /Users/martincourtinat/ThirdYearProject/node_modules/react-native-navigation/ios/RCCCustomTitleView.h
